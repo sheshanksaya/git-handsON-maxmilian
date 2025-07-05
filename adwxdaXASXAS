@@ -1,0 +1,19 @@
+[33mcommit c6c48a460792708e9cd2e8faba41548f45a70481[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-1[m[33m, [m[1;32mmain[m[33m)[m
+Author: Sheshank Saya <sheshanksaya@gmail.com>
+Date:   Fri Jul 4 17:05:52 2025 -0700
+
+    Revert "the new line was added"
+    
+    This reverts commit e100571e82e13d759bff1f8f5aadf5a110b0fa8e.
+
+[33mcommit e100571e82e13d759bff1f8f5aadf5a110b0fa8e[m
+Author: Sheshank Saya <sheshanksaya@gmail.com>
+Date:   Fri Jul 4 16:54:50 2025 -0700
+
+    the new line was added
+
+[33mcommit efc75945e9b8e1b08b663b6d940890b88a38725a[m
+Author: Sheshank Saya <sheshanksaya@gmail.com>
+Date:   Fri Jul 4 16:45:33 2025 -0700
+
+    theinitial commit
